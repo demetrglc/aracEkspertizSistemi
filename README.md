@@ -3,6 +3,7 @@
 
 # forked
 ![clone son1](https://user-images.githubusercontent.com/77542723/206549102-e07e0b1e-ed47-4196-a49c-3a8de038ebfe.png)
+![dddd](https://user-images.githubusercontent.com/77542723/206550509-7fcd77ee-8d5e-49ee-835b-8c8059e57d0c.png)
 
 # git
 ![yenicd--](https://user-images.githubusercontent.com/77542723/206549128-6c88f795-6ab7-4bfa-9708-b0c8e2103463.png)
