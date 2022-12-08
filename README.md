@@ -1,7 +1,7 @@
 # tar.gz install
 ![0yenitargzoldu](https://user-images.githubusercontent.com/77542723/206549087-0ca16191-4aa7-42e8-be81-e049c8d54676.png)
 
-# clone
+# forked
 ![clone son1](https://user-images.githubusercontent.com/77542723/206549102-e07e0b1e-ed47-4196-a49c-3a8de038ebfe.png)
 
 # git
